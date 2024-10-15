@@ -84,6 +84,18 @@
     <Compile Include="frmCaLamViec.Designer.cs">
       <DependentUpon>frmCaLamViec.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmChonPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChonPhim.Designer.cs">
+      <DependentUpon>frmChonPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChonSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChonSP.Designer.cs">
+      <DependentUpon>frmChonSP.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmDanhGiaPhim.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -214,6 +226,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmCaLamViec.resx">
       <DependentUpon>frmCaLamViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChonPhim.resx">
+      <DependentUpon>frmChonPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChonSP.resx">
+      <DependentUpon>frmChonSP.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmDangNhap.resx">
       <DependentUpon>FrmDangNhap.cs</DependentUpon>

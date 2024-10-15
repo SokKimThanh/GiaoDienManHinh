@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace GiaoDienManHinh
 {
-    public partial class frmDatVe : Form
+    public partial class frmChonSP : Form
     {
-        public frmDatVe()
+        public frmChonSP()
         {
             InitializeComponent();
-        }
-
-        private void button19_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
